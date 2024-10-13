@@ -6,4 +6,6 @@ So, here we are making *ANN* from scratch using *Numpy* for handwritten digit cl
 
 ## Dataset and Data loading :-
 The dataset which we are using here is MNIST dataset. MNIST contains a total of 70,000 handwritten digit images (60,000 - training set and 10,000 - test set) in 28x28 pixel bounding box and anti-aliased.
+
+
    
