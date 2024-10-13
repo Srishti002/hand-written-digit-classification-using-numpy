@@ -15,6 +15,8 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
 1. Weight initialization
    
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20002013.png)
+   
+   - Here In first layer, the number of neurons are 20 and 784 is size of the input image
 
 
    
