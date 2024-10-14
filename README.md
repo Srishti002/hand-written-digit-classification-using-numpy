@@ -13,7 +13,7 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
 
 ## Step by Step Guide :-
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20194324.png)
-1. Weight initialization
+1. ### Weight initialization
    
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20002013.png)
 
@@ -22,20 +22,27 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
    - In second layer again, 20 neurons
    - Third layer is softmax layer containing 10 neurons.
      
-2. Forward Propogation :-
+2. ### Forward Propogation :-
 
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20190209.png)
 
    - Activation function used here is ReLU upto first two layers.
    - As we have 10 categories of output so the last layer will be softmax layer.
 
-3. Backpropogation :-
+3. ### Backpropogation :-
 
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20192630.png)
    
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20192720.png)
+
+   - Here we have applied *gradient descent with momentum*.
+   - learning rate= 0.08
+   - Batch size = 1000
+   - epochs= 100
+
+4. ### Results :-
+5. 
    
-    
 
 
    
