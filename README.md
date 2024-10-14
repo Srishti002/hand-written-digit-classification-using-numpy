@@ -41,7 +41,11 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
    - epochs= 100
 
 4. ### Results :-
-5. 
+   - Training Accuracy :-
+     ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20201914.png)
+
+   - Testing Accuracy :-
+     ![](
    
 
 
