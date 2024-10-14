@@ -13,6 +13,7 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
 
 ## Step by Step Guide :-
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20194324.png)
+   
 1. ### Weight initialization
    
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20002013.png)
@@ -45,7 +46,8 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
      ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20201914.png)
 
    - Testing Accuracy :-
-     ![](
+     
+     ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20201932.png)
    
 
 
