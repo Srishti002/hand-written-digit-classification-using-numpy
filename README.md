@@ -12,6 +12,7 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
 ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20000423.png)
 
 ## Step by Step Guide :-
+   ![](
 1. Weight initialization
    
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20002013.png)
