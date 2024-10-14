@@ -29,6 +29,9 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
    - As we have 10 categories of output so the last layer will be softmax layer.
 
 3. Backpropogation :-
+
+   ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20192630.png)
+   
     
 
 
