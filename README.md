@@ -22,6 +22,8 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
    - Third layer is softmax layer containing 10 neurons.
      
 2. Forward Propogation :-
+
+   ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20190209.png)
    
 
 
