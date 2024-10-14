@@ -24,7 +24,12 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
 2. Forward Propogation :-
 
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20190209.png)
-   
+
+   - Activation function used here is ReLU upto first two layers.
+   - As we have 10 categories of output so the last layer will be softmax layer.
+
+3. Backpropogation :-
+    
 
 
    
