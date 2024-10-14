@@ -15,8 +15,14 @@ The dataset which we are using here is MNIST dataset. MNIST contains a total of 
 1. Weight initialization
    
    ![](https://github.com/Srishti002/hand-written-digit-classification-using-numpy/blob/main/Screenshot%202024-10-14%20002013.png)
+
+   - Weights and biases are initialized randomly.
+   - Here in first layer, the number of neurons are 20 and 784 means 28 * 28 = 784 is size of the input image.
+   - In second layer again, 20 neurons
+   - Third layer is softmax layer containing 10 neurons.
+     
+2. Forward Propogation :-
    
-   - Here In first layer, the number of neurons are 20 and 784 is size of the input image
 
 
    
